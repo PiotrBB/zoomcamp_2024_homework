@@ -1,0 +1,1 @@
+DROP TABLE mage.green_taxi

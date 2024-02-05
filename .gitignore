@@ -1,4 +1,7 @@
 week1/green_tripdata_2019-09.csv.gz
 week1/taxi+_zone_lookup.csv
-
 week1/ny_taxi_postgres_data
+
+week2/zoomcamp2024-412915-019689e27369.json
+week2/.env
+**/perosonal-gcp.json
