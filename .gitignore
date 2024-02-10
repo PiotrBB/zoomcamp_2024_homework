@@ -5,3 +5,7 @@ week1/ny_taxi_postgres_data
 week2/zoomcamp2024-412915-019689e27369.json
 week2/.env
 **/perosonal-gcp.json
+
+week3/__pycache__
+week3/data
+week3/week3_venv
